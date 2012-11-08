@@ -14,7 +14,7 @@ trac.js
 
     :trac r5678
 
-### 指定したキーワードでTracを検索検索する
+### 指定したキーワードでTrac内のページを検索する
 
     :trac foobar
 

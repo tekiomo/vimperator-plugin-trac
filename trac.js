@@ -2,7 +2,7 @@
 let INFO =
 <>
   <plugin name="trac" version="0.1"
-          href="https://github.com/tekiomo/vimperator-plugin-trac/trac.js"
+          href="https://github.com/tekiomo/vimperator-plugin-trac/"
           summary="[trac.js] 与えられたキーワードからTracのしかるべきページにアクセスするプラグインです。"
           lang="ja"
           xmlns="http://vimperator.org/namespaces/liberator">
